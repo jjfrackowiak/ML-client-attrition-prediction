@@ -1,5 +1,5 @@
 # ML-client-attrition-prediction
-Repository dedicated to predicting client attrition with ML models. It has been developed as a final project for ML classes on Data Science and Business Analytics programme (Faculty of Economics, University of Warsaw)
+Repository dedicated to predicting client attrition with ML models. It has been developed as a final project for ML classes on Data Science and Business Analytics programme (Faculty of Economics, University of Warsaw). XGBoost classifier achieved an ex equo 1st place in a competition of models comparing balanced accuracy on unseen test set.
 
 The notebook contains all neccessary stages for classificaition models development:
 1. Data Preprocessing (Encoding, Imputation, Feature Engineering, Scaling, EDA)
